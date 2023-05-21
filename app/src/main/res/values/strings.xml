@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITextTesting01</string>
+
+    <string name="submit">SUBMIT</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="location_place">Location/Place</string>
+</resources>
